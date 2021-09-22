@@ -1,2 +1,4 @@
 bear
 dog
+cat
+rabbit
